@@ -29,7 +29,8 @@ int main(){
         sum[i]=*(arr1_ptr+i) + *(arr2_ptr+i);
         cout<<sum[i]<<endl;
     }
-//question#3
+//question#3 three
+    
     const double pi=3.14;
     double radius=0.0;
     cout<<"enter radius of circle: \n";
@@ -48,7 +49,10 @@ int main(){
     {
         cout<<*table_no_ptr<<" * "<<i<<" = "<<*table_no_ptr*i<<endl;
     }
-//question#5
+    
+//question#5 five
+    
+    
     int num_1, num_2;
     int *num_1_ptr, *num_2_ptr;
     char operation;
