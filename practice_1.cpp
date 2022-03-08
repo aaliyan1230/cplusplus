@@ -52,6 +52,7 @@ int main(){
     cout<<"enter a two digit integer value: ";
     cin>>num;
     cout<<"reverse of the number is: "<<num%10<<num/10;
+    cout<<"program ended"<<endl;
 
     _getch();
     return 0;
